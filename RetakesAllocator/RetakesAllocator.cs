@@ -11,6 +11,7 @@ using CounterStrikeSharp.API.Modules.Entities.Constants;
 using CounterStrikeSharp.API.Modules.Memory.DynamicFunctions;
 using CounterStrikeSharp.API.Modules.Timers;
 using CounterStrikeSharp.API.Modules.Utils;
+using CounterStrikeSharp.API.Modules.Events;
 using RetakesAllocatorCore.Managers;
 using RetakesAllocator.Menus;
 using RetakesAllocatorCore;
@@ -21,7 +22,7 @@ using RetakesAllocator.AdvancedMenus;
 using static RetakesAllocatorCore.PluginInfo;
 using RetakesPluginShared;
 using RetakesPluginShared.Events;
-using CounterStrikeSharp.API.Modules.Events;
+
 
 namespace RetakesAllocator;
 
